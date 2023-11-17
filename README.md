@@ -1,1 +1,1 @@
-# kober_trip
+# kobert-wellness-chatbot
